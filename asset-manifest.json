@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/code-zone/static/css/main.9c377250.css",
+    "main.js": "/code-zone/static/js/main.a4510109.js",
+    "index.html": "/code-zone/index.html",
+    "main.9c377250.css.map": "/code-zone/static/css/main.9c377250.css.map",
+    "main.a4510109.js.map": "/code-zone/static/js/main.a4510109.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c377250.css",
+    "static/js/main.a4510109.js"
+  ]
+}
